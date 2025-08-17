@@ -1,4 +1,4 @@
-## 🎬 Movie Recommendation System  
+# 🎬 ReelWise – Intelligent movie recommendation system
 
 ### 📌 Overview  
 This project builds a **Movie Recommendation System** using **Collaborative Filtering** based on **Cosine Similarity**. It analyzes user ratings to suggest personalized movie recommendations. 🎥🍿  
@@ -21,7 +21,7 @@ This project builds a **Movie Recommendation System** using **Collaborative Filt
 ```
 Movie-Recommendation-System/
 │── README.md  # Documentation  
-│── recommendation.py  # Python script for recommendation  
+│── Recommendation System.py  # Python script for recommendation  
 │── dataset/  
 │   ├── ratings.csv  # User ratings dataset  
 │   ├── movies.csv  # Movie metadata  
@@ -40,8 +40,8 @@ Movie-Recommendation-System/
 ### 📜 How to Run the Project?  
 #### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/Aishvariyaa/Movie-Recommendation-System.git
-cd Movie-Recommendation-System
+git clone https://github.com/Aishvariyaa/ReelWise.git
+cd ReelWise
 ```  
 
 #### 2️⃣ Install Dependencies  
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 #### 3️⃣ Run the Script  
 ```bash
-python recommendation.py
+python Recommendation System.py
 ```  
 
 ### 📈 Sample Output  
